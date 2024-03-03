@@ -1,5 +1,9 @@
 # FormAngularApp
 
+![blnk](https://github.com/JavaDevKKT/angular-form-app/assets/147974177/9a84106d-3d58-4f69-af6d-7a3414e432e4)
+
+![submit form](https://github.com/JavaDevKKT/angular-form-app/assets/147974177/a8ea4f8a-0f70-4572-a52f-c599d261d416)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
 ## Development server
